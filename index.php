@@ -1,3 +1,3 @@
 <?php
-echo '<p>Hello World from Fin</p>';
+echo '<p>Hello World from Finlay</p>';
 ?>
